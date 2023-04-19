@@ -1,5 +1,7 @@
 # Require reviews Core for changes to configuration, license, etc
 
+/proxima/ @Proxima-Project
+
 .github/ @Baystation12/Core
 .vscode/ @Baystation12/Core
 
